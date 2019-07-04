@@ -1,0 +1,1 @@
+Confuses obfuscators like de4dot by adding types typical to other obfuscators.
