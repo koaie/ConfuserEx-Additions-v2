@@ -12,23 +12,23 @@ Additional v2 inspired from [ConfuserEx-Additions](https://github.com/Lekysha/Co
 
 ##### - AntiDe4dot: 
    - Prevents usage of De4Dot.
-- AntiDebug_v2: 
+##### - AntiDebug_v2: 
    - This protection prevents the assembly from being debugged or profiled.
-- AntiWatermark:
+##### - AntiWatermark:
   - Removes the ProtectedBy watermark to prevent Protector detection.
-- Constant:
+##### - Constant:
   - This protection encodes and compresses constants in the code.
-- Constant_v2: 
+##### - Constant_v2: 
   - This protection mangles the code in the methods so that decompilers cannot decompile the methods
-- EreaseHeader:
+##### - EreaseHeader:
   - This protection flood the module.cctor.
-- OpCodeProt:
+##### - OpCodeProt:
   - Protects OpCodes such as Ldlfd.
-- FakeObfuscator:
+##### - FakeObfuscator:
   - Confuses obfuscators like de4dot by adding types typical to other obfuscators.
-- IntergrityChecker:
+##### - IntergrityChecker:
   - This protection hashs the module to preventing file modifications.
-- JIT Antitamper:
+##### - JIT Antitamper:
   - This protection ensures the integrity of application.
-- LocaltoField:
+##### - LocaltoField:
   - This protection marks the module with a attribute that discourage ILDasm from disassembling it.
