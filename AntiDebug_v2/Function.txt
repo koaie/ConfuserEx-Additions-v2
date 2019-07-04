@@ -1,0 +1,1 @@
+This protection prevents the assembly from being debugged or profiled.
