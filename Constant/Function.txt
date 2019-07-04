@@ -1,0 +1,1 @@
+This protection encodes and compresses constants in the code.
