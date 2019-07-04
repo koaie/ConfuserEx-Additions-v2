@@ -1,0 +1,1 @@
+Prevents usage of De4Dot.
