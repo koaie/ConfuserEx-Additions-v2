@@ -1,0 +1,1 @@
+Removes the ProtectedBy watermark to prevent Protector detection.
