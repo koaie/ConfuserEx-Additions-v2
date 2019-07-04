@@ -10,7 +10,7 @@ Additional v2 inspired from [ConfuserEx-Additions](https://github.com/Lekysha/Co
 
 ## ConfuserEx-Additions-v2:
 
-- AntiDe4dot: 
+##### - AntiDe4dot: 
    - Prevents usage of De4Dot.
 - AntiDebug_v2: 
    - This protection prevents the assembly from being debugged or profiled.
