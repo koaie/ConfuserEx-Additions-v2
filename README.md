@@ -8,6 +8,7 @@ Additional v2 inspired from [ConfuserEx-Additions](https://github.com/Lekysha/Co
 
 
 
+
 ## ConfuserEx-Additions-v2:
 
 ##### - AntiDe4dot: 
